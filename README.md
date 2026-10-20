@@ -7,7 +7,7 @@ Análisis  para aumentar ingresos, priorizar hipótesis con frameworks ICE/RICE 
 [Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 [A/B Testing](https://img.shields.io/badge/A%2FB_Testing-FF6B6B?style=for-the-badge)
 [Statistics](https://img.shields.io/badge/Statistics-4ECDC4?style=for-the-badge)
-
+ 
 > Análisis completo para aumentar ingresos de un e-commerce: desde priorizar hipótesis con frameworks ICE/RICE hasta validar con un A/B Test.
 
 ## 📁Archivo:
