@@ -11,7 +11,7 @@ Análisis  para aumentar ingresos, priorizar hipótesis con frameworks ICE/RICE 
 > Análisis completo para aumentar ingresos de un e-commerce: desde priorizar hipótesis con frameworks ICE/RICE hasta validar con un A/B Test.
 
 ## 📁Archivo:
--'' -notebook con el análisis completo.
+-'priorizacion_hipotesis.ipynb' -notebook con el análisis completo.
 ### 🎯 Objetivo del Proyecto
 El equipo de marketing propone 9 hipótesis para aumentar ingresos. Tu trabajo es priorizarlas y analizar el experimento A/B lanzado.
 
