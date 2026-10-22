@@ -1,7 +1,7 @@
-[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-[A/B Testing](https://img.shields.io/badge/A%2FB_Testing-FF6B6B?style=for-the-badge)
-[Statistics](https://img.shields.io/badge/Statistics-4ECDC4?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-FF6B6B?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-4ECDC4?style=for-the-badge)
 
 # 🧪 Priorización de Hipótesis y A/B Test - Tienda Online
 
