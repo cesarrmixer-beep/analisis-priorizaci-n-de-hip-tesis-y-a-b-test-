@@ -2,7 +2,6 @@
 
 > ¿Qué ideas de marketing probar primero para no quemar presupuesto y cómo validar con estadística que realmente aumentan los ingresos?
 
-📊 **Datasets:** `hypotheses_us.csv` | `orders_us.csv` | `visits_us.csv`
 🐍 **Stack:** Python | Pandas | Matplotlib | SciPy | Estadística Inferencial
 
 ---
