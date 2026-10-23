@@ -80,14 +80,11 @@ Realicé un A/B Test con datos de órdenes y visitas. Detecté y corregí errore
 **Justificación:**
 ### Se tomarón en cuenta los datos crudos y tratados, y en ambas condiciones el grupo B lidereo, tenemos evidencia solida y no es necessario extender mas la prueba, se recomienda impulsar al grupo B con mas acciones de publicidad o marketing, ya que sus picos fueron en dias muy especificos, pero durantre el periodo de tiempo, se mantubo con paso firme y constante.
 
-
-
-
 ---
 
 ### 📈 Visualizaciones Clave
-[Deja aquí 2-3 de tus gráficas más importantes: ingreso acumulado y conversión diaria]
+[priorizacion_hipotesis.ipynb]
 
 ### 👨‍💻 Autor
 Cesar R. | Data Analyst Jr. | GDL
-Especialidad: Priorización de producto y Experimentación A/B
+
