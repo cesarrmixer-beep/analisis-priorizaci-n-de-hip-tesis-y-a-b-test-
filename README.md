@@ -83,7 +83,7 @@ Realicé un A/B Test con datos de órdenes y visitas. Detecté y corregí errore
 ---
 
 ### 📈 Visualizaciones Clave
-[priorizacion_hipotesis.ipynb]
+[priorizacion_hipotesis.ipynb
 
 ### 👨‍💻 Autor
 Cesar R. | Data Analyst Jr. | GDL
