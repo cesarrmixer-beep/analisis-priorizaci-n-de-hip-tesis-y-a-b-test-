@@ -7,7 +7,7 @@
 
 ---
 
-### [AQUÍ VA TU IMAGEN ACTUAL - CONSÉRVALA]
+### [priorizacion_hipotesis.ipynb]
 
 ---
 
